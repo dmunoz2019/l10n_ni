@@ -3,10 +3,10 @@
         <!-- Account Chart Template -->
 
         <record id="account_chart_template_0" model="account.chart.template">
-            <field name="name">Plan Contable Genérico - Nicaragua</field>
-            <field name="bank_account_code_prefix">1.1.1.5.0</field><!-- Recibos Pendientes -->
-            <field name="cash_account_code_prefix">1.0.1.5.0</field><!-- Efectivo -->
-            <field name="transfer_account_code_prefix">1.0.1.7.0</field><!-- Transferencia en Liquide< -->
+            <field name="name">Plan Contable - Nicaragua</field>
+            <field name="bank_account_code_prefix">11213</field><!-- Recibos Pendientes -->
+            <field name="cash_account_code_prefix">11110</field><!-- Efectivo -->
+            <field name="transfer_account_code_prefix">11211</field><!-- Transferencia en Liquide< -->
             <field name="currency_id" ref="base.NIO"/>
             <field name="country_id" ref="base.ni"/>
         </record>

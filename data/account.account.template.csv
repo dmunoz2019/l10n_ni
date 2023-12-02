@@ -1,73 +1,144 @@
-"id","code","name","account_type","chart_template_id/id","reconcile"
-"base_1_0_1_3_01","1.0.1.3.01","Punto de Venta","asset_cash","l10n_ni.account_chart_template_0","False"
-"base_1_0_1_4_02","1.0.1.4.02","Banco Central de América (BAC)"","asset_cash","l10n_ni.account_chart_template_0","False"
-"base_1_0_1_4_03","1.0.1.4.03","Banco Lafise Bancentro","asset_cash","l10n_ni.account_chart_template_0","False"
-"base_1_0_1_4_04","1.0.1.4.04","Banco La producción (BANPRO)"","asset_cash","l10n_ni.account_chart_template_0","False"
-"base_1_0_1_4_05","1.0.1.4.05","Banco Ficohsa","asset_cash","l10n_ni.account_chart_template_0","False"
-"base_1_0_1_5_02","1.0.1.5.02","Caja General","asset_cash","l10n_ni.account_chart_template_0","False"
-"base_1_0_1_5_03","1.0.1.5.03","Caja Chica","asset_cash","l10n_ni.account_chart_template_0","True"
-"base_1_1_1_1_00","1.1.1.1.00","Valoración de Inventario","asset_current","l10n_ni.account_chart_template_0","False"
-"base_1_1_1_2_00","1.1.1.2.00","Inventario Provisional (Recibir)"","asset_current","l10n_ni.account_chart_template_0","False"
-"base_1_1_1_3_00","1.1.1.3.00","Inventario Provisional (Entregar)"","asset_current","l10n_ni.account_chart_template_0","False"
-"base_1_1_1_4_00","1.1.1.4.00","Inventario en Transito","asset_current","l10n_ni.account_chart_template_0","False"
-"base_1_2_1_1_00","1.2.1.1.00","Cuentas por Cobrar Comerciales","asset_receivable","l10n_ni.account_chart_template_0","True"
-"base_1_2_1_1_01","1.2.1.1.01","Cuentas por Cobrar Colaboradores","asset_receivable","l10n_ni.account_chart_template_0","True"
-"base_1_2_1_1_02","1.2.1.1.02","Cuentas Por Cobrar Comerciales (PoS)"","asset_receivable","l10n_ni.account_chart_template_0","True"
-"base_1_2_1_1_10","1.2.1.1.10","Otras Cuentas Por Cobrar","asset_receivable","l10n_ni.account_chart_template_0","True"
-"base_1_2_2_1_00","1.2.2.1.00","Productos a Recibir","asset_current","l10n_ni.account_chart_template_0","True"
-"base_1_4_1_1_00","1.4.1.1.00","Iva Acreditable 15%","asset_prepayments","l10n_ni.account_chart_template_0","False"
-"base_1_5_1_1_00","1.5.1.1.00","Terrenos","asset_fixed","l10n_ni.account_chart_template_0","False"
-"base_1_5_1_2_00","1.5.1.2.00","Edificios","asset_fixed","l10n_ni.account_chart_template_0","False"
-"base_1_6_1_1_00","1.6.1.1.00","Licencia Software","asset_non_current","l10n_ni.account_chart_template_0","False"
-"base_2_0_1_0_00","2.0.1.0.00","Sueldos por pagar","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_1_1_0_00","2.1.1.0.00","Cuentas Por Pagar a Proveedores Nacionales","liability_payable","l10n_ni.account_chart_template_0","True"
-"base_2_1_2_0_00","2.1.2.0.00","Cuentas Por Pagar a Proveedores Extranjeros","liability_payable","l10n_ni.account_chart_template_0","True"
-"base_2_1_1_1_00","2.1.1.1.00","Facturas A Recibir","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_2_1_1_00","2.2.1.1.00","Prestamos Por Pagar a Bancos","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_5_1_0_00","2.5.1.0.00","Impuestos Recibidos","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_5_2_0_00","2.5.2.0.00","IVA Por Pagar","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_5_3_0_00","2.5.3.0.00","Impuesto Cuota Fija","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_5_4_0_00","2.5.4.0.00","Comisiones Por Pagar","liability_current","l10n_ni.account_chart_template_0","False"
-"base_2_9_1_0_00","2.9.1.0.00","Prestamos Por Pagar","liability_non_current","l10n_ni.account_chart_template_0","False"
-"base_3_0_1_0_00","3.0.1.0.00","Capital Autorizado,"equity","l10n_ni.account_chart_template_0","False"
-"base_3_0_1_1_00","3.0.1.1.00","Capital Social Suscrito y Pagado","equity","l10n_ni.account_chart_template_0","False"
-"base_3_0_1_2_00","3.0.1.2.00","Capital Social Suscrito y No Pagado","equity","l10n_ni.account_chart_template_0","False"
-"base_3_0_2_0_00","3.0.2.0.00","Dividendos","equity","l10n_ni.account_chart_template_0","False"
-"base_3_0_3_0_00","3.0.3.0.00","Reserva Legal","equity","l10n_ni.account_chart_template_0","False"
-"base_3_0_4_0_00","3.0.4.0.00","Reserva Voluntaria","equity","l10n_ni.account_chart_template_0","False"
-"base_3_0_5_0_00","3.0.5.0.00","Otras Reservas","equity","l10n_ni.account_chart_template_0","False"
-"base_4_0_1_0_00","4.0.1.0.00","Venta de Productos","income","l10n_ni.account_chart_template_0","False"
-"base_4_4_1_0_00","4.4.1.0.00","Ganancias en Divisas","income","l10n_ni.account_chart_template_0","False"
-"base_4_4_2_0_00","4.4.2.0.00","Ganancia de diferencia de efectivo","income","l10n_ni.account_chart_template_0","False"
-"base_4_5_1_0_00","4.5.1.0.00","Otros Ingresos","income_other","l10n_ni.account_chart_template_0","False"
-"base_5_0_1_0_00","5.0.1.0.00","Costo de Producción","expense_direct_cost","l10n_ni.account_chart_template_0","False"
-"base_6_0_1_0_00","6.0.1.0.00","Gastos","expense","l10n_ni.account_chart_template_0","False"
-"base_6_0_2_1_00","6.0.2.1.00","Costo de Producto","expense","l10n_ni.account_chart_template_0","False"
-"base_6_1_1_0_00","6.1.1.0.00","Mobiliario y Equipos","expense","l10n_ni.account_chart_template_0","False"
-"base_6_1_2_0_00","6.1.2.0.00","Alquiler","expense","l10n_ni.account_chart_template_0","False"
-"base_6_2_1_0_00","6.2.1.0.00","Comisiones Bancarias","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_00","6.3.1.1.00","Salarios","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_01","6.3.1.1.01","Alimentación","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_02","6.3.1.1.02","Transportes","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_03","6.3.1.1.03","Horas Extras","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_04","6.3.1.1.04","Comisiones","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_05","6.3.1.1.05","Incentivos","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_06","6.3.1.1.06","Vacaciones","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_07","6.3.1.1.07","Treceavo mes","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_08","6.3.1.1.08","Indemnización","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_09","6.3.1.1.09","Uniformes","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_10","6.3.1.1.10","Seguros","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_11","6.3.1.1.11","Gastos Médicos","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_1_1_12","6.3.1.1.12","Capacitación","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_2_1_00","6.3.2.1.00","INNS Patronal","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_2_2_00","6.3.2.2.00","Impuesto Mensual De Ingresos (Alcaldías)"","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_2_3_00","6.3.2.3.00","Impuesto de Bienes Inmuebles","expense","l10n_ni.account_chart_template_0","False"
-"base_6_3_2_4_00","6.3.2.4.00","Gastos No Deducibles","expense","l10n_ni.account_chart_template_0","False"
-"base_6_4_1_1_00","6.4.1.1.00","Material de Higiene y Seguridad","expense","l10n_ni.account_chart_template_0","False"
-"base_6_4_1_1_01","6.4.1.1.01","Papelería y Útiles de Oficina","expense","l10n_ni.account_chart_template_0","False"
-"base_6_4_1_1_02","6.4.1.1.02","Servicios Profesionales","expense","l10n_ni.account_chart_template_0","False"
-"base_6_4_1_1_03","6.4.1.1.03","Donaciones","expense","l10n_ni.account_chart_template_0","False"
-"base_6_4_2_1_00","6.4.2.1.00","Intereses Sobre Prestamos Corrientes",""expense","l10n_ni.account_chart_template_0","False"
-"base_6_5_1_0_00","6.5.1.0.00","Pérdida de divisas","expense","l10n_ni.account_chart_template_0","False"
-"base_6_6_2_0_00","6.6.2.0.00","Pérdida de diferencia de efectivo",""expense","l10n_ni.account_chart_template_0","False"
-"base_6_7_1_0_00","6.7.1.0.00","Otros Gastos","expense","l10n_ni.account_chart_template_0","False"
+id,code,name,account_type,reconcile,chart_template_id/id
+ni_111100,111100,Punto de venta,asset_cash,False,l10n_ni.account_chart_template_0
+ni_111102,111102,Caja general,asset_cash,True,l10n_ni.account_chart_template_0
+ni_111103,111103,Caja Chica,asset_cash,True,l10n_ni.account_chart_template_0
+ni_112101,112101,Banco Moneda Nacional,asset_cash,False,l10n_ni.account_chart_template_0
+ni_112102,112102,Banco Moneda Extranjera,asset_cash,False,l10n_ni.account_chart_template_0
+ni_112110,112110,Transferencia de liquidez,asset_current,True,l10n_ni.account_chart_template_0
+ni_112120,112120,Pagos pendientes,asset_current,True,l10n_ni.account_chart_template_0
+ni_112130,112130,Recibos pendientes,asset_current,True,l10n_ni.account_chart_template_0
+ni_112140,112140,Cuenta transitoria,asset_current,True,l10n_ni.account_chart_template_0
+ni_113101,113101,Cuenta Por Cobrar Clientes,asset_receivable,True,l10n_ni.account_chart_template_0
+ni_113102,113102,Cuenta Por Cobrar Clientes (POS),asset_receivable,True,l10n_ni.account_chart_template_0
+ni_113103,113103,Intereses Clientes,asset_receivable,True,l10n_ni.account_chart_template_0
+ni_113104,113104,Otras Cuentas por Cobrar,asset_receivable,True,l10n_ni.account_chart_template_0
+ni_114100,114100,Estimación de cuentas incobrables,asset_current,False,l10n_ni.account_chart_template_0
+ni_115110,115110,Cuenta Por Cobrar Colaboradores,asset_receivable,True,l10n_ni.account_chart_template_0
+ni_115130,115130,Cuentas por Cobrar Socios,asset_current,False,l10n_ni.account_chart_template_0
+ni_115140,115140,Gastos Pendientes de justificar ,asset_current,False,l10n_ni.account_chart_template_0
+ni_116110,116110,Inventario Disponible para la venta,asset_current,True,l10n_ni.account_chart_template_0
+ni_116170,116170,Inventario provisional (Entregado),asset_current,True,l10n_ni.account_chart_template_0
+ni_118101,118101,IVA Acreditable 15%,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_118102,118102,Retenciones a favor 2%,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_118103,118103,Retención Municipales a favor 1% ALMA,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_118104,118104,Retenciones Municipales a favor otras alcaldías,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_118105,118105,Remanente de crédito Fiscal Otros Periodos,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_118106,118106,Anticipos a proveedores Compras locales,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_118107,118107,Anticipos a Proveedores compras en el extranjero,asset_prepayments,True,l10n_ni.account_chart_template_0
+ni_119101,119101,Depósitos en garantía,asset_current,False,l10n_ni.account_chart_template_0
+ni_119102,119102,Seguros Amortizables,asset_current,False,l10n_ni.account_chart_template_0
+ni_119103,119103,Gastos de papelería amortizables,asset_current,False,l10n_ni.account_chart_template_0
+ni_119104,119104,Mejoras en propiedad amortizables,asset_current,False,l10n_ni.account_chart_template_0
+ni_121101,121101,Terrenos,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_121102,121102,Edificios,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_121103,121103,Equipos y maquinaria de producción,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_121104,121104,Vehículos,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_121105,121105,Equipo de computo,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_121106,121106,Mobiliario y equipo de oficina,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_122101,122101,Depreciación Acumulada de Edificios,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_122102,122102,Depreciación Acumulada de Equipos y maquinaria de producción,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_122103,122103,Depreciación Acumulada de Vehículos,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_122104,122104,Depreciación Acumulada de Equipo de computo,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_122105,122105,Depreciación Acumulada de Mobiliario y equipo de oficina,asset_fixed,False,l10n_ni.account_chart_template_0
+ni_123101,123101,Inmuebles no depreciables,asset_non_current,True,l10n_ni.account_chart_template_0
+ni_124101,124101,Licencia Software,asset_non_current,True,l10n_ni.account_chart_template_0
+ni_211101,211101,Cuenta Por Pagar Proveedores,liability_payable,True,l10n_ni.account_chart_template_0
+ni_211102,211102,Acreedores Varios,liability_payable,True,l10n_ni.account_chart_template_0
+ni_211103,211103,Documentos por pagar,liability_payable,True,l10n_ni.account_chart_template_0
+ni_212101,212101,Sueldos por pagar,liability_current,True,l10n_ni.account_chart_template_0
+ni_212102,212102,Vacaciones por pagar,liability_current,True,l10n_ni.account_chart_template_0
+ni_212103,212103,Aguinaldos por pagar,liability_current,True,l10n_ni.account_chart_template_0
+ni_212104,212104,Indemnización por pagar,liability_current,True,l10n_ni.account_chart_template_0
+ni_212105,212105,Otras prestaciones por pagar,liability_current,True,l10n_ni.account_chart_template_0
+ni_213101,213101,IVA por pagar,liability_current,False,l10n_ni.account_chart_template_0
+ni_213102,213102,Retenciones en la fuente por pagar,liability_current,False,l10n_ni.account_chart_template_0
+ni_213103,213103,Retenciones laborales por pagar,liability_current,False,l10n_ni.account_chart_template_0
+ni_213104,213104,Impuestos Municipales por pagar,liability_current,False,l10n_ni.account_chart_template_0
+ni_213105,213105,INSS por pagar,liability_current,False,l10n_ni.account_chart_template_0
+ni_213106,213106,INATEC por pagar,liability_current,False,l10n_ni.account_chart_template_0
+ni_214101,214101,Prestamos por Pagar Socios,liability_current,False,l10n_ni.account_chart_template_0
+ni_214102,214102,Prestamos por pagar Banco,liability_current,False,l10n_ni.account_chart_template_0
+ni_215101,215101,Anticipos de clientes,liability_current,False,l10n_ni.account_chart_template_0
+ni_221101,221101,Prestamos por Pagar,liability_non_current,False,l10n_ni.account_chart_template_0
+ni_311100,311100,Capital,equity,False,l10n_ni.account_chart_template_0
+ni_311101,311101,Dividendos,equity,False,l10n_ni.account_chart_template_0
+ni_311102,311102,Aportes pendientes de capitalizar,equity,False,l10n_ni.account_chart_template_0
+ni_312110,312110,Ganancias/pérdida acumulada,equity,False,l10n_ni.account_chart_template_0
+ni_312120,312120,Ganancias/perdidas no distribuidas,equity_unaffected,False,l10n_ni.account_chart_template_0
+ni_411101,411101,Venta de productos,income,False,l10n_ni.account_chart_template_0
+ni_411102,411102,Ingresos por venta de Servicios,income,False,l10n_ni.account_chart_template_0
+ni_411103,411103,Descuentos ,income,False,l10n_ni.account_chart_template_0
+ni_421101,421101,Intereses,income_other,False,l10n_ni.account_chart_template_0
+ni_421102,421102,Ventas de Activos ,income_other,False,l10n_ni.account_chart_template_0
+ni_421103,421103,Ventas de Desperdicios,income_other,False,l10n_ni.account_chart_template_0
+ni_421105,421105,Ganancia de divisas,income_other,False,l10n_ni.account_chart_template_0
+ni_511101,511101,Coste de los Bienes Vendidos,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_511102,511102,Costos de Servicios,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512101,512101,Salarios,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512102,512102,Horas extras,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512103,512103,Bonificaciones,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512104,512104,Viáticos ,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512105,512105,Vacaciones,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512106,512106,Aguinaldos,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512107,512107,Indemnización,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512108,512108,Cuota patronal INSS,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512109,512109,Cuota Patronal Inatec,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_512110,512110,otros Gastos de personal,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_513101,513101,Energía eléctrica,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_513102,513102,Agua potable,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_513103,513103,Alquileres,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_513104,513104,Papelería,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_513105,513105,Servicio de Limpieza,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_513106,513106,Otros Gastos Miscelaneos,expense_direct_cost,False,l10n_ni.account_chart_template_0
+ni_600000,600000,Gastos,expense,False,l10n_ni.account_chart_template_0
+ni_611101,611101,Salarios,expense,False,l10n_ni.account_chart_template_0
+ni_611102,611102,Horas extras,expense,False,l10n_ni.account_chart_template_0
+ni_611103,611103,Bonificaciones,expense,False,l10n_ni.account_chart_template_0
+ni_611104,611104,Viáticos ,expense,False,l10n_ni.account_chart_template_0
+ni_611105,611105,Vacaciones,expense,False,l10n_ni.account_chart_template_0
+ni_611106,611106,Aguinaldos,expense,False,l10n_ni.account_chart_template_0
+ni_611107,611107,Indemnización,expense,False,l10n_ni.account_chart_template_0
+ni_611108,611108,Cuota patronal INSS,expense,False,l10n_ni.account_chart_template_0
+ni_611109,611109,Cuota Patronal Inatec,expense,False,l10n_ni.account_chart_template_0
+ni_611110,611110,otros Gastos de personal,expense,False,l10n_ni.account_chart_template_0
+ni_612101,612101,Agua potable,expense,True,l10n_ni.account_chart_template_0
+ni_612102,612102,Energía eléctrica,expense,True,l10n_ni.account_chart_template_0
+ni_612103,612103,Internet,expense,False,l10n_ni.account_chart_template_0
+ni_612104,612104,Telefonía,expense,False,l10n_ni.account_chart_template_0
+ni_613101,613101,Servicios legales,expense,False,l10n_ni.account_chart_template_0
+ni_613102,613102,Servicios logísticos,expense,False,l10n_ni.account_chart_template_0
+ni_613103,613103,Servicios de limpieza,expense,False,l10n_ni.account_chart_template_0
+ni_613104,613104,Servicios tecnológicos,expense,False,l10n_ni.account_chart_template_0
+ni_614101,614101,Papelería y útiles de oficina,expense,False,l10n_ni.account_chart_template_0
+ni_614103,614103,Suministros de limpieza,expense,False,l10n_ni.account_chart_template_0
+ni_614105,614105,Suministros médicos,expense,False,l10n_ni.account_chart_template_0
+ni_614106,614106,Combustibles y lubricantes,expense,False,l10n_ni.account_chart_template_0
+ni_615101,615101,Impuesto Municipal sobre ingresos,expense,False,l10n_ni.account_chart_template_0
+ni_615102,615102,Matricula Municipal,expense,False,l10n_ni.account_chart_template_0
+ni_615103,615103,Permisos de instituciones reguladoras,expense,False,l10n_ni.account_chart_template_0
+ni_615104,615104,Timbres fiscales,expense,False,l10n_ni.account_chart_template_0
+ni_615105,615105,Rodamientos,expense,False,l10n_ni.account_chart_template_0
+ni_616101,616101,Reparación y mantenimiento de Edificios,expense,False,l10n_ni.account_chart_template_0
+ni_616102,616102,Reparación y mantenimiento de Equipos y maquinaria de producción,expense,False,l10n_ni.account_chart_template_0
+ni_616103,616103,Reparación y mantenimiento de Vehículos,expense,False,l10n_ni.account_chart_template_0
+ni_616104,616104,Reparación y mantenimiento de Equipo de computo,expense,False,l10n_ni.account_chart_template_0
+ni_616105,616105,Reparaciones y Mantenimientos de bienes arrendados,expense,False,l10n_ni.account_chart_template_0
+ni_617101,617101,Renta,expense,False,l10n_ni.account_chart_template_0
+ni_617103,617103,Estipendios,expense,False,l10n_ni.account_chart_template_0
+ni_617104,617104,Uniformes,expense,False,l10n_ni.account_chart_template_0
+ni_617105,617105,Licencias ,expense,False,l10n_ni.account_chart_template_0
+ni_618101,618101,Depreciación de Edificios,expense,False,l10n_ni.account_chart_template_0
+ni_618102,618102,Depreciación de Equipos y maquinaria de producción,expense,False,l10n_ni.account_chart_template_0
+ni_618103,618103,Depreciación de Vehículos,expense,False,l10n_ni.account_chart_template_0
+ni_618104,618104,Depreciación de Equipo de computo,expense,False,l10n_ni.account_chart_template_0
+ni_618105,618105,Depreciación de Mobiliario y equipo de oficina,expense,False,l10n_ni.account_chart_template_0
+ni_619100,619100,Gastos no deducibles,expense,False,l10n_ni.account_chart_template_0
+ni_619101,619101,Gastos no soportados,expense,False,l10n_ni.account_chart_template_0
+ni_619102,619102,Gastos de periodos anteriores,expense,False,l10n_ni.account_chart_template_0
+ni_619103,619103,multas y recargos,expense,False,l10n_ni.account_chart_template_0
+ni_619104,619104,ISR,expense,False,l10n_ni.account_chart_template_0
+ni_621101,621101,Intereses Bancarios,expense,False,l10n_ni.account_chart_template_0
+ni_621102,621102,Comisiones bancarios,expense,False,l10n_ni.account_chart_template_0
+ni_621103,621103,Emisión de chequera,expense,False,l10n_ni.account_chart_template_0
+ni_621104,621104,Pérdida de divisas,expense,False,l10n_ni.account_chart_template_0
+ni_700000,700000,Transitoria Impuestos Calculados,asset_current,False,l10n_ni.account_chart_template_0

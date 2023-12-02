@@ -9,7 +9,7 @@
         <field name="zip"></field>
         <field name="phone">+505 8312 3456</field>
         <field name="email">info@company.com.ni</field>
-        <field name="website">www.example.com</field>
+        <field name="website">www.example.com.ni</field>
     </record>
 
     <record id="demo_company_ni" model="res.company">

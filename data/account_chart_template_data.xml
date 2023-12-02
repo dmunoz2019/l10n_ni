@@ -2,12 +2,12 @@
 <odoo>
     <!-- Account Chart Template -->
     <record id="account_chart_template_0" model="account.chart.template">
-        <field name="property_account_receivable_id" ref="base_1_2_1_1_00"/>
-        <field name="property_account_payable_id" ref="base_2_1_1_0_00"/>
-        <field name="property_account_income_categ_id" ref="base_4_0_1_0_00"/>
-        <field name="property_account_expense_categ_id" ref="base_6_0_2_1_00"/>
-        <field name="income_currency_exchange_account_id" ref="base_4_4_2_0_00"/>
-        <field name="expense_currency_exchange_account_id" ref="base_6_6_2_0_00"/>
-        <field name="default_pos_receivable_account_id" ref="base_1_2_1_1_02" />
+        <field name="property_account_receivable_id" ref="ni_113101"/>
+        <field name="property_account_payable_id" ref="ni_211101"/>
+        <field name="property_account_income_categ_id" ref="ni_411101"/>
+        <field name="property_account_expense_categ_id" ref="ni_511101"/>
+        <field name="income_currency_exchange_account_id" ref="ni_421105"/>
+        <field name="expense_currency_exchange_account_id" ref="ni_621104"/>
+        <field name="default_pos_receivable_account_id" ref="ni_113102" />
     </record>
 </odoo>
