@@ -1,0 +1,37 @@
+id,name,description,invoice_label,amount,amount_type,type_tax_use,price_include,tax_group_id,repartition_line_ids/repartition_type,repartition_line_ids/document_type,repartition_line_ids/account_id,description@es,invoice_label@es
+IVA_por_acreditar,IVA Por Acreditar,Accredited VAT,15% Purchases,15,percent,purchase,True,tax_group_vat,base,invoice,,IVA Por Acreditar,15% Compras
+,,,,,,,,,tax,invoice,cta11060101,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta11060101,,
+IR_compra_general,IR compra de bienes y/o servicios generales,General Goods/Services Purchase Retention,2% Purchases,2,percent,purchase,False,tax_group_retention,base,invoice,,IR compra de bienes y/o servicios generales,2% Compras
+,,,,,,,,,tax,invoice,cta21040302,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta21040302,,
+IR_servicios_naturales,IR servicios profesionales persona natural,Natural Person Professional Services Retention,10% Purchases,10,percent,purchase,False,tax_group_retention,base,invoice,,IR servicios profesionales persona natural,10% Compras
+,,,,,,,,,tax,invoice,cta21040303,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta21040303,,
+IR_rentas_trabajo,IR Rentas del Trabajo,Work Income Retention,According to IR Table,0,percent,none,False,tax_group_retention,base,invoice,,IR Rentas del Trabajo,SegÃºn Tabla IR
+,,,,,,,,,tax,invoice,cta21040304,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta21040304,,
+INSS_laboral_empleados,INSS Laboral Empleados,Employee Social Security Retention,7% Salaries,7,percent,none,False,tax_group_retention,base,invoice,,INSS Laboral Empleados,7% Salarios
+,,,,,,,,,tax,invoice,cta21040305,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta21040305,,
+INSS_patronal,INSS Patronal,Employer Social Security Retention,21.5% Salaries,21.5,percent,none,False,tax_group_retention,base,invoice,,INSS Patronal,21.5% Salarios
+,,,,,,,,,tax,invoice,cta21030101,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta21030101,,
+IVA_por_pagar_ingresos,IVA Por Pagar sobre ingresos,Payable VAT on Income,15% Sales,15,percent,sale,True,tax_group_vat,base,invoice,,IVA Por Pagar sobre ingresos,15% Ventas
+,,,,,,,,,tax,invoice,cta21040101,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta21040101,,
+IR_retenciones_aplicadas,IR Retenciones Aplicadas por Clientes,Customer Applied Income Retention,2% Sales,2,percent,sale,False,tax_group_retention,base,invoice,,IR Retenciones Aplicadas por Clientes,2% Ventas
+,,,,,,,,,tax,invoice,cta11060102,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta11060102,,
+IR_retenciones_aplicadas,IR Retenciones Aplicadas por Clientes,Customer Applied Income Retention,15 % Sales,15,percent,sale,False,tax_group_retention,base,invoice,,IR Retenciones Aplicadas por Clientes,15% Ventas
+,,,,,,,,,tax,invoice,cta11060102,,
+,,,,,,,,,base,refund,,,
+,,,,,,,,,tax,refund,cta11060102,,

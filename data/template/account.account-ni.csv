@@ -1,0 +1,301 @@
+id,code,name,account_type,reconcile,name@es
+cta11010101,11010101, Caja Moneda Nacional ,asset_cash,True, Caja Moneda Nacional
+cta11010102,11010102, Caja Moneda Extranjera ,asset_cash,True, Caja Moneda Extranjera
+cta11010103,11010103, Pricecash Tarjeta Bac ,asset_cash,False, Pricecash Tarjeta Bac
+cta11010201,11010201, Fondo Fijo de Caja Chica ,asset_cash,False, Fondo Fijo de Caja Chica
+cta11010301,11010301, Bac C$ Cta.  ,asset_cash,True, Bac C$ Cta. 
+cta11010302,11010302, Lafise C$ Cta.  ,asset_cash,True, Lafise C$ Cta. 
+cta11010401,11010401, Bac U$ Cta.  ,asset_cash,True, Bac U$ Cta. 
+cta11010402,11010402, Lafise U$ Cta.  ,asset_cash,True, Lafise U$ Cta. 
+cta11010403,11010403, Banpro U$ Cta. ,asset_cash,True, Banpro U$ Cta.
+cta11020101,11020101, Ventas por Delivery ,asset_receivable,True, Ventas por Delivery
+cta11020102,11020102, Clientes Bar y Restaurante ,asset_receivable,True, Clientes Bar y Restaurante
+cta11020103,11020103, Aporte de Miembros ,asset_receivable,True, Aporte de Miembros
+cta11020104,11020104, Cuentas por Cobrar Colaboradores ,asset_receivable,True, Cuentas por Cobrar Colaboradores
+cta11020105,11020105, Renta de Espacios Publicitarios ,asset_receivable,True, Renta de Espacios Publicitarios
+cta11020106,11020106, Otras Cuentas por Cobrar ,asset_receivable,True, Otras Cuentas por Cobrar
+cta11020107,11020107, Arqueo de Caja ,asset_receivable,True, Arqueo de Caja
+cta11020108,11020108, Cuentas por Cobrar Generales (PoS) ,asset_receivable,True, Cuentas por Cobrar Generales (PoS)
+cta11030101,11030101, Bar y Restaurante ,asset_current,False, Bar y Restaurante
+cta11030102,11030102, Mantenimiento ,asset_current,False, Mantenimiento
+cta11030103,11030103, Deportes ,asset_current,False, Deportes
+cta11030104,11030104, Otros Anticipos ,asset_current,False, Otros Anticipos
+cta11040101,11040101, Inventario de Bar ,asset_current,True, Inventario de Bar
+cta11040102,11040102, Inventario de Restaurante ,asset_current,True, Inventario de Restaurante
+cta11040103,11040103, Inventario de Miscelaneo ,asset_current,True, Inventario de Miscelaneo
+cta11040104,11040104, Inventario de Limpieza ,asset_current,True, Inventario de Limpieza
+cta11040105,11040105, Inventario en Bodega de Piscina ,asset_current,True, Inventario en Bodega de Piscina
+cta11040106,11040106, Inventario de Publicidad ,asset_current,True, Inventario de Publicidad
+cta11060101,11060101, 15% IVA Acreditable ,asset_current,True, 15% IVA Acreditable
+cta11060102,11060102, 2% IR Retenciones Aplicadas por Clientes ,asset_current,True, 2% IR Retenciones Aplicadas por Clientes
+cta11060103,11060103, 1.5% Ir Retenciones por Afiliacion de Tarjetas Crédito y/o Débito ,asset_current,True, 1.5% Ir Retenciones por Afiliacion de Tarjetas Crédito y/o Débito
+cta11060104,11060104, 1% IMI ,asset_current,True, 1% IMI
+cta11060105,11060105, Anticipo IR Anual ,asset_current,False, Anticipo IR Anual
+cta12010101,12010101, Terrenos ,asset_fixed,False, Terrenos
+cta12010102,12010102, Superávit por Revaluación ,asset_fixed,False, Superávit por Revaluación
+cta12010201,12010201," Salón Principal,  Ejecutivo y Oficinas ",asset_fixed,False," Salón Principal,  Ejecutivo y Oficinas "
+cta12010202,12010202, Anexo Bibliotecas y Juegos ,asset_fixed,False, Anexo Bibliotecas y Juegos 
+cta12010203,12010203," Casetas, Servicios Higienicos y Bodega Cpf ",asset_fixed,False," Casetas, Servicios Higienicos y Bodega Cpf "
+cta12010204,12010204, Fogón Parrillero ,asset_fixed,False, Fogón Parrillero
+cta12010205,12010205," Cocina, Bar y Caja ",asset_fixed,False," Cocina, Bar y Caja "
+cta12010206,12010206, Canchas de Tenis ,asset_fixed,False, Canchas de Tenis
+cta12010207,12010207, Gimnasio ,asset_fixed,False, Gimnasio
+cta12010208,12010208, Piscinas ,asset_fixed,False, Piscinas
+cta12010209,12010209, Cancha de Básquetbol ,asset_fixed,False, Cancha de Básquetbol
+cta12010210,12010210, Cancha de Pádel ,asset_fixed,False, Cancha de Pádel
+cta12010211,12010211, Cancha de Frontón ,asset_fixed,False, Cancha de Frontón
+cta12010212,12010212, Dispensario Médico ,asset_fixed,False, Dispensario Médico
+cta12010213,12010213, Minibar en Campo de Fútbol ,asset_fixed,False, Minibar en Campo de Fútbol
+cta12010214,12010214, Remodelación Barra De Bar y Terraza Principal ,asset_fixed,False, Remodelación Barra De Bar y Terraza Principal
+cta12010215,12010215, Remodelacion Barra De Bar y Terraza Principal ,asset_fixed,False, Remodelacion Barra De Bar y Terraza Principal
+cta12010216,12010216, Superávit por Revaluación ,asset_fixed,False, Superávit por Revaluación
+cta12010301,12010301, Pozo Perforado ,asset_fixed,False, Pozo Perforado
+cta12010302,12010302, Parque Infantil ,asset_fixed,False, Parque Infantil
+cta12010303,12010303, Tanque de Agua  Dispensario ,asset_fixed,False, Tanque de Agua  Dispensario
+cta12010304,12010304, Tanques de Agua Edificios y Cocina ,asset_fixed,False, Tanques de Agua Edificios y Cocina
+cta12010305,12010305, Sistema de Riego Campo de Fútbol ,asset_fixed,False, Sistema de Riego Campo de Fútbol
+cta12010306,12010306, Motor 3hp y Bomba Sumergible ,asset_fixed,False, Motor 3hp y Bomba Sumergible
+cta12010307,12010307,2 Tanques Plasticos 2 500.00 Ltr,asset_fixed,False,2 Tanques Plasticos 2 500.00 Ltr
+cta12010401,12010401, 3 Sillas Semi Ejecutivas N050 ,asset_fixed,False, 3 Sillas Semi Ejecutivas N050
+cta12010402,12010402, Impresora Termica Bixolon Srp-33011 ,asset_fixed,False, Impresora Termica Bixolon Srp-33011
+cta12010403,12010403, 9 Cámaras Hilook con Grabador Digital ,asset_fixed,False, 9 Cámaras Hilook con Grabador Digital
+cta12010404,12010404, Escritorio P/ Uso Liga Fúbol ,asset_fixed,False, Escritorio P/ Uso Liga Fúbol
+cta12010405,12010405, Parlante Aiwa Bocina ,asset_fixed,False, Parlante Aiwa Bocina
+cta12010406,12010406, 2 Computadoras Procesador I3 ,asset_fixed,False, 2 Computadoras Procesador I3
+cta12010407,12010407, Laptop Lenovo I3 ,asset_fixed,False, Laptop Lenovo I3
+cta12010408,12010408, Teléfono Celular Samsung Ao2 ,asset_fixed,False, Teléfono Celular Samsung Ao2
+cta12010409,12010409, Futbolito Ft 200 ,asset_fixed,False, Futbolito Ft 200
+cta12010410,12010410, Mesa de Ping Pong ,asset_fixed,False, Mesa de Ping Pong
+cta12010411,12010411, 2 Aires Acondicionados Comfort Star Inverter 18000 Btu ,asset_fixed,False, 2 Aires Acondicionados Comfort Star Inverter 18000 Btu
+cta12010412,12010412, Laptop Notebook Dell Inspiron ,asset_fixed,False, Laptop Notebook Dell Inspiron
+cta12010413,12010413, Impresora Termica Srp-350 ,asset_fixed,False, Impresora Termica Srp-350
+cta12010414,12010414, Laptop Lenovo 31511205 ,asset_fixed,False, Laptop Lenovo 31511205
+cta12010415,12010415, Parlante Edison Inalambrico ,asset_fixed,False, Parlante Edison Inalambrico
+cta12010416,12010416, Celular Xiaomi Redmi 12C ,asset_fixed,False, Celular Xiaomi Redmi 12C
+cta12010417,12010417, Locker Metalico de 12 Depositos ,asset_fixed,False, Locker Metalico de 12 Depositos
+cta12010418,12010418, Enmicadora Perfex  Geko ,asset_fixed,False, Enmicadora Perfex  Geko
+cta12010419,12010419, Laptop Lenovo Thinkpad ,asset_fixed,False, Laptop Lenovo Thinkpad
+cta12010420,12010420, Proyector Epson Powerlite 435W ,asset_fixed,False, Proyector Epson Powerlite 435W
+cta12010421,12010421, Silla Ejecutiva Et2c Color Negro ,asset_fixed,False, Silla Ejecutiva Et2c Color Negro
+cta12010422,12010422, Laptop Lenovo Thinkpad ,asset_fixed,False, Laptop Lenovo Thinkpad
+cta12010423,12010423, Escritorios Contabilidad/Operaciones ,asset_fixed,False, Escritorios Contabilidad/Operaciones
+cta12010424,12010424, 4 Sillas de Madera Para Oficina ,asset_fixed,False, 4 Sillas de Madera Para Oficina
+cta12010501,12010501, Herramientas ,asset_fixed,False, Herramientas
+cta12010502,12010502," Mesas, sillas, taburetes ",asset_fixed,False," Mesas, sillas, taburetes "
+cta12010503,12010503, Freidora a Gas de 2 Canastas ,asset_fixed,False, Freidora a Gas de 2 Canastas
+cta12010504,12010504, Congelador Mastertech Hs670c G ,asset_fixed,False, Congelador Mastertech Hs670c G
+cta12010505,12010505, Microondas Inverter Lg ,asset_fixed,False, Microondas Inverter Lg
+cta12010506,12010506, Asador a Carbon ,asset_fixed,False, Asador a Carbon
+cta12010507,12010507, 2 Toldos con Estructura y 1 Lona 6X4 Mts ,asset_fixed,False, 2 Toldos con Estructura y 1 Lona 6X4 Mts
+cta12010508,12010508, Exhibidor Vertical 23 Pc ,asset_fixed,False, Exhibidor Vertical 23 Pc
+cta12010601,12010601, 2 Banda Caminadoras Norditrack ,asset_fixed,False, 2 Banda Caminadoras Norditrack
+cta12010602,12010602, Bicicleta Proform 405 Spx ,asset_fixed,False, Bicicleta Proform 405 Spx
+cta12010603,12010603, Caminadora Norditrack  Z1300i ,asset_fixed,False, Caminadora Norditrack  Z1300i
+cta12010604,12010604, 2 Caminadoras Pro-Form  Carbon T7 ,asset_fixed,False, 2 Caminadoras Pro-Form  Carbon T7
+cta12010609,12010609, Mobiliario y Equipos De Gym ,asset_fixed,False, Mobiliario y Equipos De Gym
+cta12010701,12010701, Esmeriladora Angular Eléctrica Truper ,asset_fixed,False, Esmeriladora Angular Eléctrica Truper
+cta12010702,12010702, Motoguadaña Stihl Fs 280 (2.5 Hp) ,asset_fixed,False, Motoguadaña Stihl Fs 280 (2.5 Hp)
+cta12010703,12010703, Varios ,asset_fixed,False, Varios
+cta12010704,12010704, Escalera Tijera de Aluminio ,asset_fixed,False, Escalera Tijera de Aluminio
+cta12011101,12011101, Edificios ,asset_non_current,False, Edificios
+cta12011102,12011102, Instalaciones ,asset_non_current,False, Instalaciones
+cta12011103,12011103, Mobiliario y Equipo De Oficina ,asset_non_current,False, Mobiliario y Equipo De Oficina
+cta12011104,12011104, Mobiliario y Equipo De Restaurante ,asset_non_current,False, Mobiliario y Equipo De Restaurante
+cta12011105,12011105, Mobiliario y Equipo De Bar ,asset_non_current,False, Mobiliario y Equipo De Bar
+cta12011106,12011106, Mobiliario y Equipo De Gimnasio ,asset_non_current,False, Mobiliario y Equipo De Gimnasio
+cta12011107,12011107, Mobiliario y Equipo Del Dispensario ,asset_non_current,False, Mobiliario y Equipo Del Dispensario
+cta12030101,12030101, Seguro de Vida ,asset_prepayments,False, Seguro de Vida
+cta12030102,12030102, Sistema Contable ,asset_prepayments,False, Sistema Contable
+cta12030103,12030103, Licencia Microsoft ,asset_prepayments,False, Licencia Microsoft
+cta12030104,12030104, Dominio Pagina Web ,asset_prepayments,False, Dominio Pagina Web
+cta12030105,12030105, Pagos Realizados por Anticipado ,asset_prepayments,False, Pagos Realizados por Anticipado
+cta12030106,12030106, Impuesto Sobre Bienes Inmuebles (IBI) ,asset_prepayments,False, Impuesto Sobre Bienes Inmuebles (IBI)
+cta21010101,21010101, Proveedores  ,liability_current,True, Proveedores 
+cta21010102,21010102, Propinas Bar y Restaurante ,liability_current,True, Propinas Bar y Restaurante
+cta21010103,21010103, Tarjeta de Crédito Bac ,liability_current,True, Tarjeta de Crédito Bac
+cta21010104,21010104, Otras Cuentas por Pagar ,liability_current,True, Otras Cuentas por Pagar
+cta21030101,21030101, INSS Patronal ,liability_current,True, INSS Patronal
+cta21030102,21030102, INATEC ,liability_current,True, INATEC
+cta21030103,21030103, Vacaciones ,liability_current,True, Vacaciones
+cta21030104,21030104, Treceavo Mes ,liability_current,True, Treceavo Mes
+cta21030105,21030105, Indemnizacion por Años de Servicio ,liability_current,True, Indemnizacion por Años de Servicio
+cta21030106,21030106, Nomina X Pagar ,liability_current,True, Nomina X Pagar
+cta21040101,21040101, 15% IVA por Pagar Sobre Ingresos ,liability_current,True, 15% IVA por Pagar Sobre Ingresos
+cta21040102,21040102, 1% IR PMD Sobre Venta De Bienes y Servicios ,liability_current,True, 1% IR PMD Sobre Venta De Bienes y Servicios
+cta21040103,21040103, Impuesto Sobre la Renta Anual ,liability_current,True, Impuesto Sobre la Renta Anual
+cta21040201,21040201, 1% Impuesto Municipal Sobre Ingresos (IMI) Alma ,liability_current,True, 1% Impuesto Municipal Sobre Ingresos (IMI) Alma
+cta21040202,21040202, Impuesto Municipal Basura ,liability_current,True, Impuesto Municipal Basura
+cta21040203,21040203, Impuesto Bienes Inmuebles (IBI) ,liability_current,True, Impuesto Bienes Inmuebles (IBI)
+cta21040204,21040204, 2% Matrícula Municipal Anual ,liability_current,True, 2% Matrícula Municipal Anual
+cta21040301,21040301, 1% IMI Sobre Compras Bienes y Servicios Por Pagar ,liability_current,True, 1% IMI Sobre Compras Bienes y Servicios Por Pagar
+cta21040302,21040302, 2% IR Compra de Bienes y/o Servicios Generales ,liability_current,True, 2% IR Compra de Bienes y/o Servicios Generales
+cta21040303,21040303, 10% IR Servicios Profesionales Persona Natural ,liability_current,True, 10% IR Servicios Profesionales Persona Natural
+cta21040304,21040304, IR Rentas del Trabajo ,liability_current,True, IR Rentas del Trabajo
+cta21040305,21040305, 7% INSS Laboral (Empleados) ,liability_current,True, 7% INSS Laboral (Empleados)
+cta21040306,21040306, 12% IR Rentas de Capital Inmobiliario ,liability_current,True, 12% IR Rentas de Capital Inmobiliario
+cta21040307,21040307, 15% IR Ganancias de Capital ,liability_current,True, 15% IR Ganancias de Capital
+cta22010101,22010101, Préstamo Bancario Bac ,liability_non_current,True, Préstamo Bancario Bac
+cta22020101,22020101, Inscripciones de Fútbol Cobradas por Anticipado ,liability_payable,True, Inscripciones de Fútbol Cobradas por Anticipado
+cta22020102,22020102, Aporte de Miembros ,liability_payable,True, Aporte de Miembros
+cta22020103,22020103, Anticipo de Eventos ,liability_payable,True, Anticipo de Eventos
+cta22020104,22020104, Anticipo por Consumo en Bar y Restaurante ,liability_payable,True, Anticipo por Consumo en Bar y Restaurante
+cta22020105,22020105, Inscripciones Cobradas por Anticipado ,liability_payable,True, Inscripciones Cobradas por Anticipado
+cta22020106,22020106, Renta de Espacios Publicitarios C/Anticipado ,liability_payable,True, Renta de Espacios Publicitarios C/Anticipado
+cta31010101,31010101, Superávit por Revaluación ,equity,False, Superávit por Revaluación
+cta32010101,32010101, Reserva Legal ,equity,False, Reserva Legal
+cta33010101,33010101, Resultado del Periodo Actual ,equity,False, Resultado del Periodo Actual
+cta33010201,33010201, Resultados de Periodos Anteriores ,equity,False, Resultados de Periodos Anteriores
+cta33010301,33010301, Ajustes Resultados de Periodos Anteriores ,equity,False, Ajustes Resultados de Periodos Anteriores
+cta34010101,34010101, Capital Social ,equity,False, Capital Social
+cta41010101,41010101, Cuota de Mantenimiento ,income,False, Cuota de Mantenimiento
+cta41010102,41010102, Inscripciones ,income,False, Inscripciones
+cta41010103,41010103, Visitas ,income,False, Visitas
+cta42010100,42010100, Eventos Sociales o Corporativos ,income,False, Eventos Sociales o Corporativos
+cta43010101,43010101, Clases de Natación ,income,False, Clases de Natación
+cta43010201,43010201, Clases de Tenis ,income,False, Clases de Tenis
+cta43010202,43010202, Pago de Iluminación ,income,False, Pago de Iluminación
+cta43010203,43010203, Torneos ,income,False, Torneos
+cta43010301,43010301, Pago por Clases de Zumba ,income,False, Pago por Clases de Zumba
+cta43010401,43010401, Pago por Clases de Salsa y Bachata ,income,False, Pago por Clases de Salsa y Bachata
+cta43010501,43010501, Pago de Iluminación ,income,False, Pago de Iluminación
+cta43010502,43010502, Torneos ,income,False, Torneos
+cta43010601,43010601, Inscripciones ,income,False, Inscripciones
+cta43010602,43010602,"Otros (Multas"" , "" Cambios"" , "" Carnets"" , "" Etc...)",income,False,"Otros (Multas"" , "" Cambios"" , "" Carnets"" , "" Etc...)"
+cta43010701,43010701, Academia de Fútbol ,income,False, Academia de Fútbol
+cta43010702,43010702, Otros ,income,False, Otros
+cta43010801,43010801, Pago de Iluminación ,income,False, Pago de Iluminación
+cta43010802,43010802, Torneos ,income,False, Torneos
+cta43010901,43010901, Alquiler de Espacios Deportivos ,income,False, Alquiler de Espacios Deportivos
+cta44010101,44010101, Servicios Bar ,income,False, Servicios Bar
+cta44010102,44010102, Servicios Restaurante ,income,False, Servicios Restaurante
+cta44010103,44010103, Otros Ingresos del Restaurante ,income,False, Otros Ingresos del Restaurante
+cta44010104,44010104, Servicios Misceláneo ,income,False, Servicios Misceláneo
+cta45010101,45010101, Otros Ingresos ,income,False, Otros Ingresos
+cta45010102,45010102, Producto Financiero Diferencial Cambiario ,income,False, Producto Financiero Diferencial Cambiario
+cta45010103,45010103, Mantenimiento de Valor ,income,False, Mantenimiento de Valor
+cta45010104,45010104, Pricecash Tarjeta Bac ,income,False, Pricecash Tarjeta Bac
+cta45010105,45010105, Renta de Espacios Publicitarios ,income,False, Renta de Espacios Publicitarios
+cta45010106,45010106, Parqueo Visitas ,income,False, Parqueo Visitas
+cta51010100,51010100, Costos Bar ,expense_direct_cost,False, Costos Bar
+cta51020100,51020100, Costos Restaurante ,expense_direct_cost,False, Costos Restaurante
+cta51030100,51030100, Costos Miscelaneos ,expense_direct_cost,False, Costos Miscelaneos
+cta52010100,52010100, Costos de Insumos Para Eventos ,expense_direct_cost,False, Costos de Insumos Para Eventos
+cta52010200,52010200, Gastos de Evento ,expense_direct_cost,False, Gastos de Evento
+cta61010101,61010101, Salarios ,expense,False, Salarios
+cta61010102,61010102, Horas Extras ,expense,False, Horas Extras
+cta61010103,61010103, Subsidio de Transporte ,expense,False, Subsidio de Transporte
+cta61010104,61010104, Subsidio de Alimento ,expense,False, Subsidio de Alimento
+cta61010105,61010105, Vacaciones ,expense,False, Vacaciones
+cta61010106,61010106, Décimo Tercer Mes ,expense,False, Décimo Tercer Mes
+cta61010107,61010107, Indemnización ,expense,False, Indemnización
+cta61010108,61010108, INSS Patronal ,expense,False, INSS Patronal
+cta61010109,61010109, INATEC ,expense,False, INATEC
+cta61010201,61010201, Salarios ,expense,False, Salarios
+cta61010202,61010202, Horas Extras ,expense,False, Horas Extras
+cta61010203,61010203, Subsidio de Transporte ,expense,False, Subsidio de Transporte
+cta61010204,61010204, Subsidio de Alimento ,expense,False, Subsidio de Alimento
+cta61010205,61010205, Vacaciones ,expense,False, Vacaciones
+cta61010206,61010206, Décimo Tercer Mes ,expense,False, Décimo Tercer Mes
+cta61010207,61010207, Indemnización ,expense,False, Indemnización
+cta61010208,61010208, INSS Patronal ,expense,False, INSS Patronal
+cta61010209,61010209, INATEC ,expense,False, INATEC
+cta61010210,61010210, Accesorios y Mantenimiento ,expense,False, Accesorios y Mantenimiento
+cta61010211,61010211, Mantenimiento de Piscina ,expense,False, Mantenimiento de Piscina
+cta61010212,61010212, Articulos de Aseo ,expense,False, Articulos de Aseo
+cta61010213,61010213, Fumigaciones e Insecticidas ,expense,False, Fumigaciones e Insecticidas
+cta61010214,61010214, Mantenimiento de Mobiliario y Equipo De Oficina ,expense,False, Mantenimiento de Mobiliario y Equipo De Oficina
+cta61010215,61010215, Combustibles y Lubricantes ,expense,False, Combustibles y Lubricantes
+cta61010301,61010301, Salarios ,expense,False, Salarios
+cta61010302,61010302, Horas Extras ,expense,False, Horas Extras
+cta61010303,61010303, Subsidio de Transporte ,expense,False, Subsidio de Transporte
+cta61010304,61010304, Subsidio de Alimento ,expense,False, Subsidio de Alimento
+cta61010305,61010305, Vacaciones ,expense,False, Vacaciones
+cta61010306,61010306, Decimo Tercer Mes ,expense,False, Decimo Tercer Mes
+cta61010307,61010307, Indemnización ,expense,False, Indemnización
+cta61010308,61010308, INSS Patronal ,expense,False, INSS Patronal
+cta61010309,61010309, INATEC ,expense,False, INATEC
+cta61010401,61010401, Energía Eléctrica ,expense,False, Energía Eléctrica
+cta61010402,61010402, Agua Potable ,expense,False, Agua Potable
+cta61010403,61010403, Cable Digital ,expense,False, Cable Digital
+cta61010404,61010404, Telefonía Fija ,expense,False, Telefonía Fija
+cta61010405,61010405, Telefonía Celular ,expense,False, Telefonía Celular
+cta61010406,61010406, Internet ,expense,False, Internet
+cta61010501,61010501, Personal Extra ,expense,False, Personal Extra
+cta61010502,61010502, Servicios Profesionales ,expense,False, Servicios Profesionales
+cta61010503,61010503, Seguro de Incendio ,expense,False, Seguro de Incendio
+cta61010504,61010504, Seguro de Responsabilidad Civil ,expense,False, Seguro de Responsabilidad Civil
+cta61010505,61010505, Sistema Contable ,expense,False, Sistema Contable
+cta61010506,61010506, Hosting y Dominio Sitio Web ,expense,False, Hosting y Dominio Sitio Web
+cta61010507,61010507, Transporte ,expense,False, Transporte
+cta61010508,61010508, Papelería y Útiles De Oficina ,expense,False, Papelería y Útiles De Oficina
+cta61010509,61010509, Atenciones Sociales ,expense,False, Atenciones Sociales
+cta61010510,61010510, Publicidad ,expense,False, Publicidad
+cta61010511,61010511, Licencia Microsoft ,expense,False, Licencia Microsoft
+cta61010512,61010512, Comisiones por Membresías ,expense,False, Comisiones por Membresías
+cta61010513,61010513, Otros Egresos ,expense,False, Otros Egresos
+cta61010514,61010514, Depreciación CEN ,expense,False, Depreciación CEN
+cta61020101,61020101, Salarios ,expense,False, Salarios
+cta61020102,61020102, Horas Extras ,expense,False, Horas Extras
+cta61020103,61020103, Subsidio de Transporte ,expense,False, Subsidio de Transporte
+cta61020104,61020104, Subsidio de Alimento ,expense,False, Subsidio de Alimento
+cta61020105,61020105, Vacaciones ,expense,False, Vacaciones
+cta61020106,61020106, Décimo Tercer Mes ,expense,False, Décimo Tercer Mes
+cta61020107,61020107, Indemnización ,expense,False, Indemnización
+cta61020108,61020108, INSS Patronal ,expense,False, INSS Patronal
+cta61020109,61020109, INATEC ,expense,False, INATEC
+cta61020110,61020110, Personal Extra ,expense,False, Personal Extra
+cta61020111,61020111, Papelería y Útiles De Oficina ,expense,False, Papelería y Útiles De Oficina
+cta61020112,61020112, Descuento por Consumo ,expense,False, Descuento por Consumo
+cta61020113,61020113, Otros Egresos ,expense,False, Otros Egresos
+cta61020114,61020114, Comisiones y Gastos por Ventas Delivery ,expense,False, Comisiones y Gastos por Ventas Delivery
+cta61020115,61020115, Sistema de Facturación ,expense,False, Sistema de Facturación
+cta61030101,61030101, Salarios ,expense,False, Salarios
+cta61030102,61030102, Horas Extras ,expense,False, Horas Extras
+cta61030103,61030103, Subsidio de Transporte ,expense,False, Subsidio de Transporte
+cta61030104,61030104, Subsidio de Alimento ,expense,False, Subsidio de Alimento
+cta61030105,61030105, Vacaciones ,expense,False, Vacaciones
+cta61030106,61030106, Décimo Tercer Mes ,expense,False, Décimo Tercer Mes
+cta61030107,61030107,Indemnización,expense,False, Indemnización
+cta61030108,61030108, INSS Patronal ,expense,False, INSS Patronal
+cta61030109,61030109, INATEC ,expense,False, INATEC
+cta61030110,61030110, Personal Extra ,expense,False, Personal Extra
+cta61030111,61030111, Papelería y Útiles De Oficina ,expense,False, Papelería y Útiles De Oficina
+cta61030112,61030112, Descuento por Consumo ,expense,False, Descuento por Consumo
+cta61030113,61030113, Otros Egresos ,expense,False, Otros Egresos
+cta61030114,61030114, Comisiones y Gastos por Ventas Delivery ,expense,False, Comisiones y Gastos por Ventas Delivery
+cta61030115,61030115, Sistema de Facturación ,expense,False, Sistema de Facturación
+cta61030116,61030116, Depreciación Restaurante ,expense,False, Depreciación Restaurante
+cta61040101,61040101, Pago Instructor de Natación ,expense,False, Pago Instructor de Natación
+cta61040102,61040102, Otros Gastos ,expense,False, Otros Gastos
+cta61040201,61040201, Pago Instructor de Tenis ,expense,False, Pago Instructor de Tenis
+cta61040202,61040202, Otros Gastos ,expense,False, Otros Gastos
+cta61040301,61040301, Pago de Instructor de Zumba ,expense,False, Pago de Instructor de Zumba
+cta61040302,61040302, Otros Gastos ,expense,False, Otros Gastos
+cta61040401,61040401, Pago de Instructor de Salsa y Bachata ,expense,False, Pago de Instructor de Salsa y Bachata
+cta61040501,61040501, Torneos ,expense,False, Torneos
+cta61040601,61040601, Árbitros ,expense,False, Árbitros
+cta61040602,61040602, Visor ,expense,False, Visor
+cta61040603,61040603, Pasabolas ,expense,False, Pasabolas
+cta61040604,61040604, Estadísticas ,expense,False, Estadísticas
+cta61040605,61040605, Trofeos ,expense,False, Trofeos
+cta61040606,61040606, Papelería y Útiles de Oficina ,expense,False, Papelería y Útiles de Oficina
+cta61040607,61040607, Combustible ,expense,False, Combustible
+cta61040608,61040608, Cal ,expense,False, Cal
+cta61040609,61040609, Mantenimiento del Campo ,expense,False, Mantenimiento del Campo
+cta61040610,61040610, Otros Egresos ,expense,False, Otros Egresos
+cta61040701,61040701, Pago de Instructor Academia de Futbol ,expense,False, Pago de Instructor Academia de Futbol
+cta61040702,61040702, Otros Egresos ,expense,False, Otros Egresos
+cta61050101,61050101, Diferencial Cambiario ,expense,False, Diferencial Cambiario
+cta61050102,61050102, Comisiones Bancarias Pagadas ,expense,False, Comisiones Bancarias Pagadas
+cta61050103,61050103, Cargo por Cheque Rebotado / Chequeras ,expense,False, Cargo por Cheque Rebotado / Chequeras
+cta61050104,61050104, Intereses Préstamo Bac ,expense,False, Intereses Préstamo Bac
+cta61060101,61060101, Amortización Matricula Municipal Anual ,expense,False, Amortización Matricula Municipal Anual
+cta61060102,61060102, 1% IR PMD Sobre Venta De Bienes y Servicios ,expense,False, 1% IR PMD Sobre Venta De Bienes y Servicios
+cta61060103,61060103, Impuesto Bienes Inmuebles (IBI) ,expense,False, Impuesto Bienes Inmuebles (IBI)
+cta61060104,61060104, Impuesto Municipal Basura ,expense,False, Impuesto Municipal Basura
+cta61060105,61060105, Impuesto Rótulos ,expense,False, Impuesto Rótulos
+cta61060106,61060106, 1% Impuesto Municipal Sobre Ingresos (IMI) Alma ,expense,False, 1% Impuesto Municipal Sobre Ingresos (IMI) Alma
+cta61060107,61060107, Multas y Recargos No Deducibles ,expense,False, Multas y Recargos No Deducibles
+cta61060108,61060108, Retenciones Asumidas no Deducibles ,expense,False, Retenciones Asumidas no Deducibles
+cta61060109,61060109, Impuesto Sobre la Renta Anual ,expense,False, Impuesto Sobre la Renta Anual
+cta710101,710101,Other Financial Expenses,expense,False,Otros Gastos Financieros

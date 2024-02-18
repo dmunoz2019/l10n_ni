@@ -1,0 +1,3 @@
+"id","name","country_id","name@es"
+"tax_group_vat","Impuestos","base.ni","Grupo de impuestos"
+"tax_group_retention","Retenciones","base.ni","Grupo de retenciones"
