@@ -110,7 +110,7 @@ cta12030103,12030103, Licencia Microsoft ,asset_prepayments,False, Licencia Micr
 cta12030104,12030104, Dominio Pagina Web ,asset_prepayments,False, Dominio Pagina Web
 cta12030105,12030105, Pagos Realizados por Anticipado ,asset_prepayments,False, Pagos Realizados por Anticipado
 cta12030106,12030106, Impuesto Sobre Bienes Inmuebles (IBI) ,asset_prepayments,False, Impuesto Sobre Bienes Inmuebles (IBI)
-cta21010101,21010101, Proveedores  ,liability_current,True, Proveedores 
+cta21010101,21010101, Proveedores  ,liability_payable,True, Proveedores 
 cta21010102,21010102, Propinas Bar y Restaurante ,liability_current,True, Propinas Bar y Restaurante
 cta21010103,21010103, Tarjeta de Crédito Bac ,liability_current,True, Tarjeta de Crédito Bac
 cta21010104,21010104, Otras Cuentas por Pagar ,liability_current,True, Otras Cuentas por Pagar
